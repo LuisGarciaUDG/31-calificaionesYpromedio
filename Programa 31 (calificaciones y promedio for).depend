@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425599402 source:c:\users\luis\dropbox\inco\programación\programa 31 (calificaciones y promedio for)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
